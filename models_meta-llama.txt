@@ -1,0 +1,14 @@
+meta-llama/llama-3-70b-instruct
+meta-llama/llama-3-8b-instruct
+meta-llama/llama-3.1-70b-instruct
+meta-llama/llama-3.1-8b-instruct
+meta-llama/llama-3.2-11b-vision-instruct
+meta-llama/llama-3.2-1b-instruct
+meta-llama/llama-3.2-3b-instruct
+meta-llama/llama-3.2-3b-instruct:free
+meta-llama/llama-3.3-70b-instruct
+meta-llama/llama-3.3-70b-instruct:free
+meta-llama/llama-4-maverick
+meta-llama/llama-4-scout
+meta-llama/llama-guard-3-8b
+meta-llama/llama-guard-4-12b

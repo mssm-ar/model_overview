@@ -1,0 +1,5 @@
+perplexity/sonar
+perplexity/sonar-deep-research
+perplexity/sonar-pro
+perplexity/sonar-pro-search
+perplexity/sonar-reasoning-pro

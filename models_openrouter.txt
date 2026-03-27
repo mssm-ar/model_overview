@@ -1,0 +1,3 @@
+openrouter/auto
+openrouter/bodybuilder
+openrouter/free
